@@ -44,14 +44,6 @@
 
     https://military-partner-data.web.app/
 
-[워크스페이스](https://goor.me/i66Cr)
-
-    https://goor.me/i66Cr
-
-[어드민](https://goor.me/9jRPc) [워크스페이스](https://goor.me/i66Cr)
-
-    [https://goor.me/9jRPc](https://goor.me/9jRPc)
-
 # 웹 기능 설명
 
 ### [Main Page](https://military-partner.web.app/) - 사용자 이용 페이지
